@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+============================================================================================================================================
+
+install the extension es7 + react/redux....   by dsznajder
+this helps to minimize the effort for developer
+press rfce + tab -- auto create template for component
